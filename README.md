@@ -74,3 +74,6 @@ Fuente de alimentación: proporciona energía al sistema.
 Cables de conexión: permiten la comunicación y alimentación de los componentes.
 
 Soporte lateral en L impreso en 3D: sostiene y posiciona los servomotores junto a la cinta transportadora.
+
+5. LINK DE TINKERCAD:
+https://www.tinkercad.com/things/gTVug2xwm0G-la-ele?sharecode=ouaABgQxkqChqTgpzpUDLphRCB59XTbFto_4mVjZQGY
